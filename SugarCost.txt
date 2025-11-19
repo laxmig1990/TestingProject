@@ -1,1 +1,1 @@
-Sugar is 20 rupees (changing the content)
+Sugar is 20 rupees (changing the content) - Edit in Git Hub
